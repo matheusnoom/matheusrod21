@@ -25,6 +25,5 @@ Software Architect/Software engineer
 
 <div style= "display: inline_block">
 	<a href="https://www.hackerrank.com/profile/matheusnoom"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-            <a href="https://discord.gg/2kzpgydhqE"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-            <a href="mailto:matheusnoom@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+            <a href="mailto:matheus@rodcode.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
